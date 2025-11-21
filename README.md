@@ -16,7 +16,7 @@
 # 🌍 Karibu Wander ✊🏾✈️  
 **The African Travel Tribe App — Find Your People. Explore the Motherland Together.**
 
-🔥 **Live App:** https://karibuwander.streamlit.app  
+🔥 **Live App:**https://karibu-wander-6yuth3uqmxwnnhcxnn7fsd.streamlit.app/ 
 📦 **GitHub Repo:** https://github.com/pery-24/Karibu-Wander  
 
 ---
