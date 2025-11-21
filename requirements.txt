@@ -1,3 +1,6 @@
 streamlit
-streamlit-option-menu
 sqlalchemy
+passlib[bcrypt]
+argon2-cffi
+streamlit-folium
+folium
