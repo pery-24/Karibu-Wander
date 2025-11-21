@@ -1,3 +1,17 @@
+
+<p align="center">
+  <img src="logo.png" alt="Karibu Wander Logo" width="160"/>
+</p>
+
+<h1 align="center">🌍 Karibu Wander ✊🏾✈️</h1>
+<h3 align="center">Find Your Travel Tribe. Explore Africa Together.</h3>
+
+<p align="center">
+  <a href="https://karibuwander.streamlit.app">🌐 Live Demo</a> •
+  <a href="https://github.com/pery-24/Karibu-Wander">📦 GitHub Repo</a>
+</p>
+
+
 # 🌍 Karibu Wander ✊🏾✈️  
 **The African Travel Tribe App — Find Your People. Explore the Motherland Together.**
 
