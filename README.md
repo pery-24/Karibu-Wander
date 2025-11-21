@@ -97,6 +97,46 @@ It’s a movement.
 Built with ❤️ by CEO Navy
 Kenya, Africa — 2025
 
+⭐ How Karibu Wander Works
+## 🛠 How It Works
+
+Karibu Wander is simple, intuitive, and designed for Africans who want to explore the continent together. Here’s how it works:
+
+1. **Sign Up / Log In**
+   - Create a secure account.
+   - Your password is safely hashed with Argon2.
+
+2. **Explore Destinations**
+   - Browse 10+ hand-picked African destinations.
+   - View images, descriptions, activities, and local tips.
+
+3. **Find Your Tribe**
+   - See other travelers’ profiles.
+   - Check interests and match scores to find compatible travel buddies.
+
+4. **Join or Create Trips**
+   - Request to join a trip or create your own.
+   - Accept or decline join requests from other travelers.
+
+5. **Track Your Squad**
+   - “My Squad” page shows everyone you’re traveling with.
+   - Countdown timer to your next adventure.
+
+6. **Interactive Map**
+   - View all active trips on a live map of Africa.
+   - Plan your adventure based on real-time trip locations.
+
+7. **Share Your Journey**
+   - Share trip links on social media.
+   - Invite friends to join your adventure.
+
+---
+
+💡 **In short:**  
+Sign up → Explore → Match → Join → Travel Together.  
+Karibu Wander connects Africans to form squads and explore the continent with people who truly share their vibe.
+
+
 📜 License
 
 MIT License
