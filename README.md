@@ -4,12 +4,13 @@
 </p>
 
 <h1 align="center">🌍 Karibu Wander ✊🏾✈️</h1>
-<h3 align="center">Find Your Travel Tribe. Explore Africa Together.</h3>
+<h3 align="center"><em>Journeys Made With Tribe</em></h3>
 
 <p align="center">
   <a href="https://karibuwander.streamlit.app">🌐 Live Demo</a> •
   <a href="https://github.com/pery-24/Karibu-Wander">📦 GitHub Repo</a>
 </p>
+
 
 
 # 🌍 Karibu Wander ✊🏾✈️  
